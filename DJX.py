@@ -1,1 +1,1 @@
-import DJX.py
+import DJX
